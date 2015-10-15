@@ -12,7 +12,7 @@ For USAJOBS team members, we have guidance on how USAJOBS puts this policy into 
 
 ### Credits
 
-This policy was forked from the [18F Open Source Policy](htps://github.com/18F/open-source-polic), which was forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy).
+This policy was forked from the [18F Open Source Policy](https://github.com/18F/open-source-polic), which was forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy).
 
 ### Public domain
 
