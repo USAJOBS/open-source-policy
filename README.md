@@ -1,14 +1,10 @@
 # USAJOBS Open Source Policy
 
+**Under active development. Everything is subject to change.**
+
 This repository contains the official [Open Source Policy](policy.md) of [USAJOBS](https://usajobs.gov/) (a digital delivery team within the [Office of Personnel Management](http://opm.gov)).
 
 **[Read our Open Source Policy.](policy.md)**
-
-### USAJOBS Team Guidance
-
-For USAJOBS team members, we have guidance on how USAJOBS puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
-
-**[USAJOBS open source team practices.](practice.md)**
 
 ### Credits
 
